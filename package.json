@@ -1,0 +1,25 @@
+{
+  "name": "webpack-json-stringify-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader that stringifys json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slimeygecko/webpack-json-stringify-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "json",
+    "stringify"
+  ],
+  "author": "Mike Woodward",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slimeygecko/webpack-json-stringify-loader/issues"
+  },
+  "homepage": "https://github.com/slimeygecko/webpack-json-stringify-loader#readme"
+}
